@@ -292,6 +292,7 @@
 				DEVELOPMENT_TEAM = 6SGQZ32758;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = piaxcameragallery/Info.plist;
+				INFOPLIST_KEY_NSCameraUsageDescription = "Ta en fin bild";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -320,6 +321,7 @@
 				DEVELOPMENT_TEAM = 6SGQZ32758;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = piaxcameragallery/Info.plist;
+				INFOPLIST_KEY_NSCameraUsageDescription = "Ta en fin bild";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
